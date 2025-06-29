@@ -12,7 +12,7 @@ This project demonstrates a simple singly linked list in the C programming langu
 ---
 
 🆕version 1:-
-📝 To-Do List in C
+📝 To-Do List in C.
 
 This is my second project — a simple console-based To-Do List written in C using linked lists.
 
@@ -37,7 +37,8 @@ Created by yemimah — a beginner learning C and GitHub 💪
 ---
 
  🆕 Version 2:-
-📝To-Do list in C
+📝To-Do list in C.
+
  To-Do List with "Mark as Done" Feature ✅
 
 In this improved version of my To-Do List app, I added a feature to mark tasks as completed using checkboxes like `[✓]` and `[ ]`.

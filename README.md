@@ -37,3 +37,19 @@ gcc todo_list.c -o todo
 ## 🧑‍💻 Author
 
 Created by yemimah — a beginner learning C and GitHub 💪
+
+---
+
+## 🆕 Version 2: To-Do List with "Mark as Done" Feature ✅
+
+In this improved version of my To-Do List app, I added a feature to mark tasks as completed using checkboxes like `[✓]` and `[ ]`.
+
+### 🔄 What's New:
+- Each task can now be marked as done ✅
+- Done tasks show `[✓]`, others show `[ ]`
+- Easy menu-driven interface
+
+### 📄 File:
+- `todo list_2.c` — updated version with feature added
+
+### 💡 Sample Output:

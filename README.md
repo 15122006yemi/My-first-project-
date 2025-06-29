@@ -32,3 +32,8 @@ Use any C compiler like GCC or OnlineGDB:
 ```bash
 gcc todo_list.c -o todo
 ./todo
+---
+
+## 🧑‍💻 Author
+
+Created by yemimah — a beginner learning C and GitHub 💪

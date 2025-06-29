@@ -11,7 +11,7 @@ This project demonstrates a simple singly linked list in the C programming langu
 - `linked_list.c` — contains the full C source code
 ---
 
-•version 1:-
+🆕version 1:-
 📝 To-Do List in C
 
 This is my second project — a simple console-based To-Do List written in C using linked lists.

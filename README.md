@@ -1,48 +1,11 @@
-# My-first-project-
-This is my first GitHub project #include <stdio.h>
-#include <stdlib.h>
+# Linked List in C
 
-struct Node {
-    int data;
-    struct Node* next;
-};
+This project demonstrates a simple singly linked list in the C programming language.
 
-void traverse(struct Node* head) {
-    struct Node* temp = head;
-    printf("Linked List: ");
-    while (temp != NULL) {
-        printf("%d -> ", temp->data);
-        temp = temp->next;
-    }
-    printf("NULL\n");
-}
+## What the program does:
+- Creates 3 nodes
+- Links them together
+- Prints the list: 10 → 20 → 30 → NULL
 
-struct Node* insertAtEnd(struct Node* head, int value) {
-    struct Node* newNode = (struct Node*)malloc(sizeof(struct Node));
-    newNode->data = value;
-    newNode->next = NULL;
-
-    if (head == NULL) {
-        return newNode;
-    }
-
-    struct Node* temp = head;
-    while (temp->next != NULL) {
-        temp = temp->next;
-    }
-
-    temp->next = newNode;
-    return head;
-}
-
-int main() {
-    struct Node* head = NULL;
-
-    head = insertAtEnd(head, 10);
-    head = insertAtEnd(head, 20);
-    head = insertAtEnd(head, 30);
-
-    traverse(head);
-
-    return 0;
-}
+## File:
+- `linked_list.c` — contains the full C source code

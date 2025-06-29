@@ -11,7 +11,8 @@ This project demonstrates a simple singly linked list in the C programming langu
 - `linked_list.c` — contains the full C source code
 ---
 
-# 📝 To-Do List in C
+•version 1:-
+📝 To-Do List in C
 
 This is my second project — a simple console-based To-Do List written in C using linked lists.
 
@@ -27,12 +28,7 @@ This is my second project — a simple console-based To-Do List written in C usi
 
 ## 🛠️ How to Run
 
-Use any C compiler like GCC or OnlineGDB:
 
-```bash
-gcc todo_list.c -o todo
-./todo
----
 
 ## 🧑‍💻 Author
 
@@ -40,16 +36,18 @@ Created by yemimah — a beginner learning C and GitHub 💪
 
 ---
 
-## 🆕 Version 2: To-Do List with "Mark as Done" Feature ✅
+ 🆕 Version 2:-
+📝To-Do list in C
+ To-Do List with "Mark as Done" Feature ✅
 
 In this improved version of my To-Do List app, I added a feature to mark tasks as completed using checkboxes like `[✓]` and `[ ]`.
 
-### 🔄 What's New:
+ 🔄 What's New:
 - Each task can now be marked as done ✅
 - Done tasks show `[✓]`, others show `[ ]`
 - Easy menu-driven interface
 
-### 📄 File:
-- `todo list_2.c` — updated version with feature added
+📄 File:
+- `todo list_2.c` — updated version with feature added.
 
-### 💡 Sample Output:
+
